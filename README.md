@@ -40,7 +40,7 @@ npm
 > Email: super.admin@test.com || Password: 12345678
 
 
-## Triangle POS Features
+## Inventory POS Features
 
 - **Products Management & Barcode Printing**
 - **Stock Management**
